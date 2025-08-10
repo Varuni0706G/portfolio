@@ -30,7 +30,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "Oola",
+    title: "Oola Taxi",
     description:
       "A Java-based taxi booking management application with separate roles for **Admin** and **Customer**."
 ,
