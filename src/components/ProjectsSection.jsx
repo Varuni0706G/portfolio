@@ -1,7 +1,7 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 import p1Image from "@/assets/p1.jpg";
 import p2Image from "@/assets/p2.jpg";
-import p4Image from "@assets/OIP.jpeg";
+import p4Image from "@/assets/p4.jpg";
 import p5Image from "@/assets/p5.webp";
 import p6Image from "@/assets/p6.jpg";
 
@@ -32,7 +32,7 @@ const projects = [
     id: 3,
     title: "Oola Taxi",
     description:
-      "A Java-based taxi booking management application with separate roles for **Admin** and **Customer**."
+      "A Java-based taxi booking management application with separate roles for Admin and Customer that allows user to login and book taxi."
 ,
     image: p4Image,
     tags: ["java"],
